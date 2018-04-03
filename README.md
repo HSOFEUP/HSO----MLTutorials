@@ -2,7 +2,7 @@
 
 ## Synopsys
 
-This is a short compilation of some mechine learning tutorials made in Python notebooks
+This is a short compilation of some machine learning tutorials made in Python notebooks and R
 
 ## Contributors
 
